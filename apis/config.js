@@ -1,0 +1,1 @@
+export default webUrl= "https://www.gamicabusiness.com"
